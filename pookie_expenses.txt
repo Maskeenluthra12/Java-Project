@@ -1,0 +1,4 @@
+ONE,Food,2025-11-15,40.0,Diet Coke
+ONE,food,2025-12-09,200.0,Chole Bhature
+REC,Rent,2025-11-01,30000.0,House,2025-12-01
+ONE,Travel,2025-11-18,20000.0,Goa
